@@ -16,7 +16,7 @@ const element = React.createElement(
 	),
 	React.createElement(
 		"a",
-		{ href: "https://github.com/himani-sdsu", target: "_blank" },
+		{ href: "https://github.com/PallaviPrasanakumar", target: "_blank" },
 		React.createElement(
 			"button",
 			{ className: "border" },
